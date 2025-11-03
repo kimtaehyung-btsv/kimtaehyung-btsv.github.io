@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kimtaehyung-btsv.github.io/KIMTAEHYUNG-V/sitemap.xml
